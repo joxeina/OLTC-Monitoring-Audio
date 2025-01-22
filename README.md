@@ -1,2 +1,2 @@
 # OLTC-Monitoring-Audio
-This repository contains the code, data and additional materials of the paper "-". 
+This repository contains the code, data and additional materials of the paper "Transformer OLTC operation monitoring framework through Accoustic Signal Processing and Convolutional Neural Neworks" by Adnan Secic (DV Power, Sweden), Jose I. Aizpurua (University of the Basque Country and Ikerbasque Basque Foundation for Science, Spain), Unai Garro (Mondragon University, Spain), Eñaut Muxika (Mondragon University, Spain) and Igor Kuzle (University of Zagreb, Croatia). 
